@@ -1,5 +1,0 @@
-# pip install openpyxl pandas
-import pandas as pd
-df = pd.read_excel("data.xlsx")
-df.to_csv("data.csv", index=False)
-print("Excel converted to CSV successfully")
