@@ -7,7 +7,7 @@ Each script does exactly one thing, uses one main library, and prints a clear co
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/python-usefull-tricks.git
+git clone https://github.com/mebroukhamza-lab/python-usefull-tricks.git
 cd python-usefull-tricks
 pip install -r requirements.txt
 python <script-name>.py
